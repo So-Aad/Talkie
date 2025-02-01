@@ -64,3 +64,38 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Talkie is a Laravel Chat Application 💬
+
+This is a real-time chat application built using Laravel, Pusher, and Chatify. It allows users to send and receive messages instantly with a modern and user-friendly interface.
+🔹 Features
+
+✅ Real-time messaging using Pusher
+✅ User-friendly chat interface with Chatify
+✅ Authentication system (Login & Register)
+✅ Message notifications
+✅ Chat history storage in the database
+🔹 Technologies Used
+
+    Laravel – Backend framework
+    Pusher – Real-time WebSocket communication
+    Chatify – Laravel package for chat interfaces
+    MySQL – Database for storing messages
+
+This app provides a smooth chat experience, ideal for real-time communication in web applications. 🚀
+
+![home](https://github.com/user-attachments/assets/13635878-2f43-4113-bb0c-752c48529cf4)
+![Capture d’écran 2025-02-01 163519](https://github.com/user-attachments/assets/080a0227-f031-445f-aad1-3d394737eb10)
+![regi](https://github.com/user-attachments/assets/c2e1990d-d30e-4015-8abb-2c3a1710350c)
+![start](https://github.com/user-attachments/assets/68b82910-7fef-48aa-a74f-fbfc1333150b)
+![messs](https://github.com/user-attachments/assets/4b0bf7a9-27e8-47f7-9252-ba3a48fd9cb4)
+![messss](https://github.com/user-attachments/assets/611dfe7b-f081-4782-8ead-84cfd17eca05)
+![pro](https://github.com/user-attachments/assets/8338e065-3d2b-49c2-a7a7-8e250e24e5f8)
+
+
+
+
+
+
+
+
